@@ -7,7 +7,7 @@ from telegram.ext import (
     ContextTypes
 )
 
-TOKEN = os.getenv("8146754055:AAGGtB5yLNWnRn17rXtJi1dbCb5Fvf-DU70")
+TOKEN = "8146754055:AAGGtB5yLNWnRn17rXtJi1dbCb5Fvf-DU70"
 
 DATA_FILE = "userdata.json"
 user_data = {}
